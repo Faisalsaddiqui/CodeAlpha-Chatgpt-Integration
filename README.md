@@ -1,6 +1,5 @@
-Chatgpt-Integration
-ChatGPT-Integration
-Overview
+# Chatgpt-Integration
+# Overview
 ChatGPT-Integration provides a seamless way to integrate a custom-trained ChatGPT model into your website. This feature enables you to engage with potential customers by answering their questions, providing product recommendations, and promoting your services—ultimately enhancing user experience and driving sales.
 
 Features
