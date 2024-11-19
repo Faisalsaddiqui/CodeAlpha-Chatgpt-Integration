@@ -13,12 +13,15 @@ ChatGPT-Integration provides a seamless way to integrate a custom-trained ChatGP
 **Analytics Dashboard:** Monitor chat performance, customer queries, and conversion rates.
 
 **Technologies Used**
+
 Frontend: React.js, Tailwind CSS
 Backend: Node.js, Express.js
 API: OpenAI GPT API
 Database: MongoDB (or a preferred database for training data storage)
-Contributing
+
+**Contributing**
 We welcome contributions to improve this project! Here's how you can help:
+
 **License**
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
