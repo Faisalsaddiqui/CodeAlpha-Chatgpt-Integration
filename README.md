@@ -6,21 +6,13 @@ ChatGPT-Integration provides a seamless way to integrate a custom-trained ChatGP
 
 Tailor the ChatGPT model to align with your products, services, and brand voice.
 
-**Real-Time Assistance:**
+**Real-Time Assistance:** Answer customer queries instantly, improving engagement and satisfaction.
 
-Answer customer queries instantly, improving engagement and satisfaction.
+**Conversational UI:** User-friendly chat interface for a smooth interaction experience.
 
-**Conversational UI:**
+**Integration Flexibility:** Easily embed the chat widget into any website or web application.
 
-User-friendly chat interface for a smooth interaction experience.
-
-**Integration Flexibility:**
-
-Easily embed the chat widget into any website or web application.
-
-**Analytics Dashboard:**
-
-Monitor chat performance, customer queries, and conversion rates.
+**Analytics Dashboard:** Monitor chat performance, customer queries, and conversion rates.
 
 **Technologies Used**:
 
