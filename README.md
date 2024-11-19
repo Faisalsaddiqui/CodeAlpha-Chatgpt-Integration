@@ -20,8 +20,6 @@ ChatGPT-Integration provides a seamless way to integrate a custom-trained ChatGP
 
 • API: OpenAI GPT API
 
-• Database: MongoDB (or a preferred database for training data storage)
-
 **Contributing**:
 We welcome contributions to improve this project! Here's how you can help:
 
