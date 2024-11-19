@@ -2,12 +2,11 @@
 # Overview
 ChatGPT-Integration provides a seamless way to integrate a custom-trained ChatGPT model into your website. This feature enables you to engage with potential customers by answering their questions, providing product recommendations, and promoting your services—ultimately enhancing user experience and driving sales.
 
-Features
-Custom Training: Tailor the ChatGPT model to align with your products, services, and brand voice.
-Real-Time Assistance: Answer customer queries instantly, improving engagement and satisfaction.
-Conversational UI: User-friendly chat interface for a smooth interaction experience.
-Integration Flexibility: Easily embed the chat widget into any website or web application.
-Analytics Dashboard: Monitor chat performance, customer queries, and conversion rates.
+**Features Custom Training:** Tailor the ChatGPT model to align with your products, services, and brand voice.
+**Real-Time Assistance:** Answer customer queries instantly, improving engagement and satisfaction.
+**Conversational UI:** User-friendly chat interface for a smooth interaction experience.
+**Integration Flexibility:** Easily embed the chat widget into any website or web application.
+**Analytics Dashboard:** Monitor chat performance, customer queries, and conversion rates.
 Installation
 Clone the Repository
 
@@ -17,25 +16,6 @@ git clone https://github.com/yourusername/ChatGPT-Integration.git
 cd ChatGPT-Integration
 Install Dependencies
 Ensure you have the required tools (e.g., Node.js, Python, or your backend framework). Then, run:
-
-bash
-Copy code
-npm install  
-Set Up API Key
-Obtain your OpenAI API key and add it to your environment file (.env):
-
-makefile
-Copy code
-OPENAI_API_KEY=your_openai_api_key  
-Run the Application
-Start the application using your preferred method:
-
-bash
-Copy code
-npm start  
-Embed Chat Widget
-Copy the generated widget code and paste it into your website's HTML:
-
 html
 Copy code
 <script src="chat-widget.js"></script>  
