@@ -26,7 +26,7 @@ We welcome contributions to improve this project! Here's how you can help:
 **License**:
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-**Acknowledgments**
+**Acknowledgments**:
 
 Special thanks to OpenAI for the GPT model and the developer community for continuous support.
 
