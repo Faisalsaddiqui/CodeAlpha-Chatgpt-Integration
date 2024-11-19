@@ -7,27 +7,6 @@ ChatGPT-Integration provides a seamless way to integrate a custom-trained ChatGP
 **Conversational UI:** User-friendly chat interface for a smooth interaction experience.
 **Integration Flexibility:** Easily embed the chat widget into any website or web application.
 **Analytics Dashboard:** Monitor chat performance, customer queries, and conversion rates.
-Installation
-Clone the Repository
-
-bash
-Copy code
-git clone https://github.com/yourusername/ChatGPT-Integration.git
-cd ChatGPT-Integration
-Install Dependencies
-Ensure you have the required tools (e.g., Node.js, Python, or your backend framework). Then, run:
-html
-Copy code
-<script src="chat-widget.js"></script>  
-<div id="chat-widget"></div>  
-Usage
-Access the admin dashboard to configure the ChatGPT model:
-
-Upload FAQs, product details, and custom prompts.
-Adjust the tone and style of responses.
-Embed the chat widget on your website.
-
-Monitor customer interactions and refine the training data for improved accuracy.
 
 Technologies Used
 Frontend: React.js, Tailwind CSS
@@ -36,17 +15,6 @@ API: OpenAI GPT API
 Database: MongoDB (or a preferred database for training data storage)
 Contributing
 We welcome contributions to improve this project! Here's how you can help:
-
-Fork the repository.
-Create a new branch for your feature or bug fix.
-bash
-Copy code
-git checkout -b feature-name  
-Commit your changes.
-bash
-Copy code
-git commit -m "Description of changes"  
-Push your changes and create a pull request.
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
