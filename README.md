@@ -23,8 +23,5 @@ ChatGPT-Integration provides a seamless way to integrate a custom-trained ChatGP
 **Contributing**:
 We welcome contributions to improve this project! Here's how you can help:
 
-**License**:
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 **Acknowledgments**: Special thanks to OpenAI for the GPT model and the developer community for continuous support.
 
