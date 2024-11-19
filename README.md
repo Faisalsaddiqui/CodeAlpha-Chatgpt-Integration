@@ -16,8 +16,6 @@ ChatGPT-Integration provides a seamless way to integrate a custom-trained ChatGP
 
 • **Frontend:** React.js, Tailwind CSS
 
-• **Backend:** Node.js, Express.js
-
 • **API:** OpenAI GPT API
 
 **Contributing**:
