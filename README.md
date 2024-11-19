@@ -12,7 +12,7 @@ ChatGPT-Integration provides a seamless way to integrate a custom-trained ChatGP
 
 - **Analytics Dashboard:** Monitor chat performance, customer queries, and conversion rates.
 
-**Technologies Used**
+## Technologies Used
 
 **Frontend:** React.js, Tailwind CSS
 
