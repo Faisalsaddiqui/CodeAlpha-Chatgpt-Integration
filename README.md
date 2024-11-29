@@ -17,7 +17,7 @@ ChatGPT-Integration provides a seamless way to integrate a custom-trained ChatGP
 **Frontend:** Javascript, Tailwind CSS
 
 ## Contributing
-We welcome contributions to improve this project! Here's how you can help:
+We welcome contributions to improve this project!
 
 ## Acknowledgments
 Special thanks to OpenAI for the GPT model and the developer community for continuous support.
